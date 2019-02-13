@@ -10,6 +10,7 @@
   "repository": "github:icyJoseph/useOptimizedResize",
   "main": "dist/index.js",
   "scripts": {
+    "deploy": "yarn build && surge --domain https://godly-sheep.surge.sh --project ./examples/dist",
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack --mode production",
     "start": "webpack-dev-server --mode development",
