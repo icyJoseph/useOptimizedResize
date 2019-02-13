@@ -6,6 +6,10 @@ Listeners attached to window resize can negatively impact performance. That is b
 
 In order to prevent this, [MDN recommends](https://developer.mozilla.org/en-US/docs/Web/Events/resize) to throttle the event using `requestAnimationFrame`, `setTimeout` or a `customEvent`.
 
+## Demo
+
+A demo can be found [here](https://godly-sheep.surge.sh/).
+
 ## Implementation
 
 `useOptimizedResize` is an based of the examples showed by [MDN here](https://developer.mozilla.org/en-US/docs/Web/Events/resize).
