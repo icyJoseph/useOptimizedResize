@@ -1,18 +1,13 @@
 {
   "name": "use-optimized-resize",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "useLayoutEffect for window resize",
   "author": {
     "name": "Joseph Chamochumbi",
     "email": "contact@icjoseph.com",
     "url": "http://icjoseph.com"
   },
-  "keywords": [
-    "react",
-    "react-hooks",
-    "useEffectLayout",
-    "reactjs"
-  ],
+  "keywords": ["react", "react-hooks", "useEffectLayout", "reactjs"],
   "repository": "github:icyJoseph/useOptimizedResize",
   "main": "dist/index.js",
   "scripts": {
@@ -27,7 +22,7 @@
     "react": "^16.8.1",
     "react-dom": "^16.8.1"
   },
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@babel/cli": "^7.0.0",
     "@babel/core": "^7.0.0",
