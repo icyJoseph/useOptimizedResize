@@ -35,6 +35,13 @@ function App() {
         <div className="container with-flex-wrap">
           <ResizeOptimized />
         </div>
+        <a
+          href="https://github.com/icyJoseph/useOptimizedResize"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Github Repo
+        </a>
       </section>
     </div>
   );
