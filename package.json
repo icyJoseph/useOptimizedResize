@@ -1,6 +1,6 @@
 {
   "name": "use-optimized-resize",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "useLayoutEffect for window resize",
   "author": {
     "name": "Joseph Chamochumbi",
